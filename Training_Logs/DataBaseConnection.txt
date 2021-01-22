@@ -1,0 +1,3 @@
+2020-12-03/12:07:09		Opened %s Database Successfully
+2020-12-03/12:07:09		Opened %s Database Successfully
+2020-12-03/12:09:21		Opened %s Database Successfully
